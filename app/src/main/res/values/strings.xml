@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ListV</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="delete">delete</string>
+    <string name="cancel">cancel</string>
+    <string name="modify_data_msg">modify data mesg</string>
+    <string name="Add_Data">add data</string>
+    <string name="Add_Data_Msg">add data msg</string>
+    <string name="five">five</string>
+    <string name="three">three</string>
+    <string name="four">four</string>
+    <string name="modify_data">modify data</string>
+</resources>
